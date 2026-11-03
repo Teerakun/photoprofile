@@ -17,7 +17,7 @@ const CONFIG = {
       title: "ผลงาน",
       links: [
         { label: "ภาพบุคคล", desc: "เน้นถ่ายบุคคล เช่น ทำพอร์ต แฟชั่น", icon: "star", url: "https://photos.app.goo.gl/hZUNaqHGDFKBDs1XA" },
-        { label: "งานพิธี", desc: "กิจกรรมต่างๆ", icon: "star", url: "https://photos.app.goo.gl/jiAfzNyoyKDAaW668" },
+        { label: "งานพิธี", desc: "กิจกรรมต่างๆ", icon: "star", url: "https://photos.app.goo.gl/NW6sRz1u9mZEtE1m8" },
       ]
     }
   ]
