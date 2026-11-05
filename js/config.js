@@ -9,7 +9,7 @@ const CONFIG = {
       title: "ติดต่อและติดตาม",
       links: [
         { label: "Instagram", desc: "@phase.cm.cy", icon: "instagram", url: "https://instagram.com/phase.cm.cy" },
-        { label: "LINE",      desc: "แอดไลน์คุยงานได้เลย", icon: "chat",      url: "https://line.me/ti/p/~0949974914" },
+        { label: "LINE",      desc: "แอดไลน์คุยงานได้เลย", icon: "chat",      url: "https://line.me/ti/p/~0849974914" },
         { label: "Google Photos", desc: "อัลบั้มรูปทั้งหมด", icon: "photo",   url: "https://photos.app.goo.gl/RpVtgsjmhToqYw3h9" }
       ]
     },
