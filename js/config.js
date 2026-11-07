@@ -1,7 +1,7 @@
 const CONFIG = {
   name: "Phase",
   bio: "ช่างภาพ · ติดต่อถ่ายรูปและดูผลงานได้ด้านล่าง",
-  avatar: "images/IMG_6230.jpg",
+  avatar: "images/E2.jpeg",
   footer: "© 2026 phase",
 
   sections: [
